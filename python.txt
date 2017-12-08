@@ -1,0 +1,15 @@
+Python is widely used high level programming language for general programming purpuse by Guido Van Rossum.
+Python has a design philosphy that emprises code readability 
+Python allows uesrs to express concepts in fewer lines.
+
+FEATURES OF PYTHON:
+easy to learn
+cross platform language
+free and open source
+object oriented language
+integrated
+
+ADVANTAGES:
+productivity
+integrated features
+extensive support libraries
